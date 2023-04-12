@@ -25,6 +25,7 @@ body {
     font-family: 'Poppins', sans-serif; /* Weights: 200, 400, 600*/
     line-height: 1.8;
     font-weight: 400;
+    margin: 10vh auto;
 }
 
 .container {
@@ -64,7 +65,6 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    margin-bottom: 50px;
     padding: 0 90px;
 }
 
@@ -79,7 +79,7 @@ body {
 .card {
     padding: 35px;
     margin: 10px auto;
-    width: 23vw;
+    width: 345px;
     height: 250px;
     font-size: 0.8rem;
     display: flex;
